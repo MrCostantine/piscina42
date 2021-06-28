@@ -1,1 +1,0 @@
-patch -o b a sw.diff

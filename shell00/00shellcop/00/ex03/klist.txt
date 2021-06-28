@@ -1,5 +1,0 @@
-Credentials cache: API:BA8740A6-39C8-4992-B380-ECA7CD741E90
-        Principal: crogoza@42MADRID.COM
-
-  Issued                Expires               Principal
-Jun 21 14:43:05 2021  Jun 22 00:43:05 2021  krbtgt/42MADRID.COM@42MADRID.COM
